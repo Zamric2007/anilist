@@ -43,21 +43,6 @@ nav h1 {
     margin: 0 5px;
 }
 
-footer {
-    display: flex;
-    height: 30px;
-    background-color: rgb(46, 46, 46);
-    padding: 10px 5px;
-    text-align: center;
-}
-
-.devider {
-    margin: 30px 10px;
-    height: 1px;
-    border: 0;
-    background-color: rgb(170, 170, 170);
-}
-
 /*----------------------Body/Div/Section----------------------*/
 
 body {
@@ -83,7 +68,7 @@ a {
 
 .type {
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     color: lightsalmon;
     margin-bottom: 20px;
 }
