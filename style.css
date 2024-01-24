@@ -117,7 +117,8 @@ a {
 
 
 #cts {
-    width: 300px;
+    width: 325px;
+    font-size: 25px;
     display: inline-block;
     text-align: center;
 }
@@ -131,7 +132,7 @@ a {
 }
 
 #anm {
-    margin: 30px 325px;
+    margin: 30px 460px;
 }
 
 .anm {
@@ -142,7 +143,7 @@ a {
 }
 
 #png {
-    width: 24px;
+    width: 30px;
     padding-right: 7px;
 }
 
